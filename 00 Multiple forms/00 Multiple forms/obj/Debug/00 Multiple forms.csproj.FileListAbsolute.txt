@@ -1,0 +1,17 @@
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\00 Multiple forms.csprojAssemblyReference.cache
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\Choose Value.g.cs
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\MainWindow.g.cs
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\App.g.cs
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\00 Multiple forms_MarkupCompile.cache
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\00 Multiple forms_MarkupCompile.lref
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\bin\Debug\00 Multiple forms.exe.config
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\bin\Debug\00 Multiple forms.exe
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\bin\Debug\00 Multiple forms.pdb
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\Choose Value.baml
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\MainWindow.baml
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\00 Multiple forms.g.resources
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\_00_Multiple_forms.Properties.Resources.resources
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\00 Multiple forms.csproj.GenerateResource.cache
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\00 Multiple forms.csproj.CoreCompileInputs.cache
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\00 Multiple forms.exe
+D:\Coding\Programeren2CVO\00 Multiple forms\00 Multiple forms\obj\Debug\00 Multiple forms.pdb
