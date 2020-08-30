@@ -5,8 +5,21 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_00_Multiple_forms_Classes"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Manage products" Height="336.454" Width="540.04" WindowStartupLocation="CenterScreen" Background="#FF405DC1">
+    <Window.Resources>
+        <Color x:Key="Color1">#FF16321D</Color>
+        <Color x:Key="Color2">Black</Color>
+    </Window.Resources>
     <Grid>
-        
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                <GradientStop Color="#FF183E22" Offset="0.296"/>
+                <GradientStop Color="#FF1BB692" Offset="0.852"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <ListBox Name="lstProducts" HorizontalAlignment="Left" Height="209" Margin="10,10,0,0" VerticalAlignment="Top" Width="512" SelectionChanged="lstProducts_SelectionChanged"/>
+        <Button x:Name="btnAddProduct" Content="Add new product" HorizontalAlignment="Left" Margin="10,224,0,0" VerticalAlignment="Top" Width="512" Click="btnAddProduct_Click"/>
+        <Button x:Name="btnChangeProduct" Content="Change selected product" HorizontalAlignment="Left" Margin="10,249,0,0" VerticalAlignment="Top" Width="512" IsEnabled="False" Click="btnChangeProduct_Click" />
+        <Button x:Name="btnRemoveProduct" Content="Delete selected product" HorizontalAlignment="Left" Margin="10,274,0,0" VerticalAlignment="Top" Width="512" IsEnabled="False" Click="btnRemoveProduct_Click" />
     </Grid>
 </Window>
