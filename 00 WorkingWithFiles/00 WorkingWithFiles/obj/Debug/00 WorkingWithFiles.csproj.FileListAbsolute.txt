@@ -1,0 +1,36 @@
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\00 WorkingWithFiles.exe.config
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\00 WorkingWithFiles.exe
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\00 WorkingWithFiles.pdb
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles.csprojAssemblyReference.cache
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\frmProductDetail.g.cs
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\frmQuantityBuyProduct.g.cs
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\MainWindow.g.cs
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\App.g.cs
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles_MarkupCompile.cache
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles_MarkupCompile.lref
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\frmProductDetail.baml
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\frmQuantityBuyProduct.baml
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\MainWindow.baml
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles.g.resources
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\_00_WorkingWithFiles.Properties.Resources.resources
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles.csproj.GenerateResource.cache
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles.csproj.CoreCompileInputs.cache
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles.csproj.CopyComplete
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles.exe
+D:\Coding\Programeren2CVO\00 WorkingWithFiles\00 WorkingWithFiles\obj\Debug\00 WorkingWithFiles.pdb
