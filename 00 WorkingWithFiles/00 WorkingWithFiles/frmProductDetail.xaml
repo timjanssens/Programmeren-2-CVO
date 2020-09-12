@@ -8,13 +8,13 @@
         Title="Product Detail" Height="220" Width="250">
     <Grid>
         <Label Content="Code" HorizontalAlignment="Left" Margin="32,32,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="93,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Name" HorizontalAlignment="Left" Margin="32,62,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="93,62,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtProductCode" HorizontalAlignment="Left" Height="23" Margin="93,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="txtProductCode_TextChanged"/>
+        <Label  Content="Name" HorizontalAlignment="Left" Margin="32,62,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtProductName" HorizontalAlignment="Left" Height="23" Margin="93,62,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="txtProductName_TextChanged"/>
         <Label Content="Price" HorizontalAlignment="Left" Margin="32,95,0,0" VerticalAlignment="Top"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="93,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <Button Content="Cancel" HorizontalAlignment="Left" Margin="40,139,0,0" VerticalAlignment="Top" Width="75"/>
-        <Button Content="Save" HorizontalAlignment="Left" Margin="138,139,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="txtProductPrice" HorizontalAlignment="Left" Height="23" Margin="93,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="txtProductPrice_TextChanged"/>
+        <Button x:Name="btnCancelAddProduct" Content="Cancel" HorizontalAlignment="Left" Margin="40,139,0,0" VerticalAlignment="Top" Width="75" Click="btnCancelAddProduct_Click" IsEnabled="True"/>
+        <Button x:Name="btnSaveAddProduct" Content="Save" HorizontalAlignment="Left" Margin="138,139,0,0" VerticalAlignment="Top" Width="75" Click="btnSaveAddProduct_Click" IsEnabled="False"/>
 
     </Grid>
 </Window>

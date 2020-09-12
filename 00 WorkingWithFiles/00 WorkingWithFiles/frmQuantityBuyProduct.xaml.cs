@@ -23,5 +23,10 @@ namespace _00_WorkingWithFiles
         {
             InitializeComponent();
         }
+
+        private void btnBuy_Click(object sender, RoutedEventArgs e)
+        {
+            this.DialogResult = true;
+        }
     }
 }

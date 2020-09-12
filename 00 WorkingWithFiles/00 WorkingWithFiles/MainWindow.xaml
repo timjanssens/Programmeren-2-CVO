@@ -7,18 +7,18 @@
         mc:Ignorable="d"
         Title="My shop" Height="450" Width="625.384" WindowStartupLocation="CenterScreen">
     <Grid Margin="0,0,0,0">
-        <ListBox HorizontalAlignment="Left" Height="238" Margin="20,20,0,0" VerticalAlignment="Top" Width="131"/>
-        <ListBox HorizontalAlignment="Left" Height="238" Margin="231,20,0,0" VerticalAlignment="Top" Width="131"/>
-        <Button Content=">>" HorizontalAlignment="Left" Margin="179,37,0,0" VerticalAlignment="Top" Width="26" Height="93"/>
-        <Button Content="&lt;&lt;" HorizontalAlignment="Left" Margin="179,145,0,0" VerticalAlignment="Top" Width="26" Height="93"/>
-        <Button Content="Add product" HorizontalAlignment="Left" Margin="20,280,0,0" VerticalAlignment="Top" Width="131"/>
-        <Button Content="Remove product" HorizontalAlignment="Left" Margin="20,313,0,0" VerticalAlignment="Top" Width="131"/>
-        <Button Content="Save products" HorizontalAlignment="Left" Margin="20,347,0,0" VerticalAlignment="Top" Width="131"/>
-        <Button Content="Load products" HorizontalAlignment="Left" Margin="20,384,0,0" VerticalAlignment="Top" Width="131"/>
-        <Button Content="Empty basket" HorizontalAlignment="Left" Margin="231,280,0,0" VerticalAlignment="Top" Width="131"/>
-        <Button Content="Calculate invoice" HorizontalAlignment="Left" Margin="471,20,0,0" VerticalAlignment="Top" Width="131"/>
-        <Label Content="" HorizontalAlignment="Left" Margin="412,70,0,0" VerticalAlignment="Top" Height="263" Width="190"/>
-        <Button Content="Close shop" HorizontalAlignment="Left" Margin="471,384,0,0" VerticalAlignment="Top" Width="131"/>
+        <ListBox x:Name="lbxProductsAvailable" HorizontalAlignment="Left" Height="238" Margin="20,20,0,0" VerticalAlignment="Top" Width="131" SelectionChanged="lbxProductsAvailable_SelectionChanged"/>
+        <ListBox x:Name="lbxProductsInBasket" HorizontalAlignment="Left" Height="238" Margin="231,20,0,0" VerticalAlignment="Top" Width="131"/>
+        <Button x:Name="btnAddProductToBasket" Content=">>" HorizontalAlignment="Left" Margin="179,37,0,0" VerticalAlignment="Top" Width="26" Height="93" IsEnabled="False" Click="btnAddProductToBasket_Click"/>
+        <Button x:Name="btnRemoveProductFromBasket" Content="&lt;&lt;" HorizontalAlignment="Left" Margin="179,145,0,0" VerticalAlignment="Top" Width="26" Height="93"/>
+        <Button x:Name="btnAddProductToAvailable" Content="Add product" HorizontalAlignment="Left" Margin="20,280,0,0" VerticalAlignment="Top" Width="131" Click="btnAddProductToAvailable_Click"/>
+        <Button x:Name="btnRemoveProductFromAvailable" Content="Remove product" HorizontalAlignment="Left" Margin="20,313,0,0" VerticalAlignment="Top" Width="131" Click="btnRemoveProductFromAvailable_Click" IsEnabled="False"/>
+        <Button x:Name="btnSaveProductToFile" Content="Save products" HorizontalAlignment="Left" Margin="20,347,0,0" VerticalAlignment="Top" Width="131"/>
+        <Button x:Name="btnLoadProductFromFile" Content="Load products" HorizontalAlignment="Left" Margin="20,384,0,0" VerticalAlignment="Top" Width="131"/>
+        <Button x:Name="btnEmptyBasket" Content="Empty basket" HorizontalAlignment="Left" Margin="231,280,0,0" VerticalAlignment="Top" Width="131"/>
+        <Button x:Name="btnCalculateInvoice"  Content="Calculate invoice" HorizontalAlignment="Left" Margin="471,20,0,0" VerticalAlignment="Top" Width="131"/>
+        <Label x:Name="lblInvoice" Content="" HorizontalAlignment="Left" Margin="412,70,0,0" VerticalAlignment="Top" Height="263" Width="190"/>
+        <Button x:Name="btnCloseShop" Content="Close shop" HorizontalAlignment="Left" Margin="471,384,0,0" VerticalAlignment="Top" Width="131" Click="btnCloseShop_Click"/>
 
     </Grid>
 </Window>
